@@ -2,35 +2,34 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "What is the best way to greet?",
+    answer: "Hello folks",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Hello guys",
+      "Hello girls",
+      "Hello folks",
+      "Hello boys"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "Which of the following is NOT a benefit of diversity",
+    answer: "Lowers wages.",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Increases productivity.",
+      "Lowers wages.",
+      "Improves the quality of management.",
+      "Project teams collaborate more effectively."
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "Discrimination is…",
+    answer: "An action that denies the rights of a person because of their cultural identity.",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "The shared experience of a community.",
+      "Tolerance and understanding between cultures.",
+      "An action that denies the rights of a person because of their cultural identity."
     ]
   },
     {
