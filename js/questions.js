@@ -34,24 +34,22 @@ let questions = [
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "When someone asks questions you should: ",
+    answer: "Make no assumptioms, listen carefully and answer.",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "Start assumption and answer.",
+      "Make no assumptioms, listen carefully and answer.",
+      "Ignore what the person is saying."
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "Which of the following is an example of inclusive community:",
+    answer: "Everyone is welcomed and valued.",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "Everyone is welcomed and valued.",
+      "Only professionals with high qualification are valued.",
+      "A particular gender group is focused."
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
