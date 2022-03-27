@@ -6,9 +6,40 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+/* 
+h1{
+    text-align: center;
+    margin-top: 10%;
+    /* margin-left: 30%; */
+    /* background: #67f5ff; */
+    /* width: 40%; */
+    /* border-radius: 50%; */
+ /*   text-decoration: underline;
+    text-decoration-style: wavy;
+    background-image: linear-gradient(red, yellow);
+} */
+
+h1{
+    color: white;
+    position: absolute;
+        top: 10%;
+        left: 30%;
+        /* font-size: 40px;
+        font-family: Arial, 
+            Helvetica, sans-serif;
+        background: linear-gradient(
+            to right, #e9dbe1, #244366);
+        -webkit-text-fill-color: transparent;
+        background-color: #004085;
+        -webkit-background-clip: text; */
+        background-color: black;
+        padding: 15px;
+        /* border-radius: 10%; */
+}
 
 body{
-    background: #007bff;
+    /* background: #007bff; */
+    background-image: url(img/diversity.jpeg);
 }
 
 ::selection{
